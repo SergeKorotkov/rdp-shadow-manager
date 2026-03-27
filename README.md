@@ -1,5 +1,5 @@
 # RDP Shadow Manager
-
+Designed for IT administrators
 Simple tool for remote shadow connection to RDP sessions on Windows servers.
 
 ## Installation
